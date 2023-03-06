@@ -18,3 +18,11 @@ Assessment and evaluation tools: The website template should include tools for a
 Analytics and reporting: The website template should include analytics and reporting tools that allow educators to track learner progress and identify areas for improvement.
 Implementation:
 To implement this initiative, MyWebClass.org will assemble a team of designers and developers to create the website template. The team will work closely with educators and learners to understand their needs and preferences, and to ensure that the website template is user-friendly and meets the needs of the target audience. Once the website template is created, it will be made available to educators and learners for free on the MyWebClass.org website.
+
+
+
+
+
+
+#list epics related to this initiative
+1. [MyWebClass.org Website Template](https://github.com/joshuadadzie/mywebclass-agile-docs/blob/41555f4e5a1daa4722f73bf3dd1e397349097c84/documentation/theme_1/initiatives/epics/MyWebClass.org%20base%20website%20template.md)
