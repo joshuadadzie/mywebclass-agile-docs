@@ -34,3 +34,16 @@ Governance: The project governance structure will provide oversight and support 
 
 Conclusion:
 By establishing basic project documentation and project management practices, we can improve the success rate of projects, reduce the risk of project failure, and ensure that projects are delivered within time, scope, and budget. This initiative will require the support and commitment of senior management, project sponsors, and project teams. We believe that this initiative will be beneficial to the organization, and we look forward to its successful implementation.
+
+
+
+
+
+
+
+
+
+
+
+#list epics related to this initiative
+1. [Basic Project Documentation](https://github.com/joshuadadzie/mywebclass-agile-docs/blob/3a7bd0b474335193079367eac279470df1410c77/documentation/theme_1/initiatives/epics/Basic%20Project%20Documentation.md)
