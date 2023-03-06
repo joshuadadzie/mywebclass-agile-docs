@@ -23,3 +23,11 @@ Monitor and optimize: Implement monitoring and optimization tools such as Nagios
 
 Conclusion:
 DevOps practices are crucial for enabling Continuous Delivery and improving software development processes. By implementing this initiative, organizations can achieve faster delivery of software applications with higher quality, thereby improving their competitiveness in the market.
+
+
+
+
+
+
+#list epics related to this initiative
+1. [DevOps Implementation](https://github.com/joshuadadzie/mywebclass-agile-docs/blob/c700f350189dbd56b271c382c92075c48e7a05c5/documentation/theme_1/initiatives/epics/DevOps%20Implementation.md)
